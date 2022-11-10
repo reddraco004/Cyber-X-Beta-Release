@@ -36,31 +36,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94755982430'] //ur owner number
+global.ownername = "𝘏𝘢𝘳𝘴𝘩𝘢𝘯𝘢 𝘒 𝘗𝘳𝘦𝘮𝘢𝘭𝘢𝘭" //ur owner name
+global.ytname = "WHATSAPP: ❖ 𝐀𝐃𝐌𝐈𝐍 𝐁𝐎𝐀𝐑𝐃 ❖" //ur yt chanel name
+global.socialm = "Insta: Dragon Kingdom " //ur github or insta name
+global.location = "Sri Lanka,Kaluthara, Bulathsinhala " //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94755982430']
+global.ownertag = '94755982430' //ur tag number
+global.botnumber = '94777916638' //Add your Bot Number For Log
+global.botname = '𝔇𝔯𝔞𝔤𝔬𝔫 𝔫𝔬002' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.myweb = "https://chat.whatsapp.com/GzNxIklUJzhJ8GPsvdyt5s" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.reactmoji = "🐉" //ur menu react emoji
+global.themeemoji = "🐲" //ur theme emoji
+global.packname = "DK stickers" //ur sticker watermark packname
+global.author = "𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪" //ur sticker watermark author
+global.footer = "® 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 "
+global.aliveimg ="https://telegra.ph/file/77bd8c47b11e2e48739b8.jpg"
+global.allmenuimg ="https://telegra.ph/file/6724eb2bb5d1b2bf445e4.jpg"
+global.welcomeimg= "https://telegra.ph/file/605009cb98c8bddd9aa97.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "𝐈'𝐦 𝐀𝐋𝐈𝐕𝐄 𝐍𝐨𝐰... /n 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬..."
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
